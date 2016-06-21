@@ -7,9 +7,10 @@ You can beautify json,xml,html using jquery-ctypefmt in your web browser.
 
 ## JavaScript
 
-As an alternative to the Python script, you may install the NPM package `js-beautify`. When installed globally, it provides an executable `js-beautify` script. As with the Python script, the beautified result is sent to `stdout` unless otherwise configured.
+Base jquery framework, not other dependencies.
 
 ```html
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="//yourdomain/jquery.ctypefmt.js"></script>
 ```
 

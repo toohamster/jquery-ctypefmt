@@ -1,11 +1,7 @@
 # jquery-ctypefmt
 
-This little beautifier will reformat and reindent bookmarklets, ugly
-JavaScript, unpack scripts packed by Dean Edward’s popular packer,
-as well as deobfuscate scripts processed by
-[javascriptobfuscator.com](http://javascriptobfuscator.com/).
 
-# Usage
+## Usage
 You can beautify json,xml,html using jquery-ctypefmt in your web browser.
 
 
